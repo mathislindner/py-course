@@ -18,3 +18,13 @@ The lecture slides are in the [Lecture_01_introduction](./Lecture_01_introductio
 * [Lecture slides](./Lecture_01_introduction/Python_for_engineers_lecture_01_2020_02_25.pdf)
 
 
+## Lecture 2 - Python Introduction Part 1
+
+**Preparation**: Download the new lecture material by executing the following in the terminal:
+
+```bash
+cd ~/class-fs20 # Change to the git directory.
+git pull upstream master # Download the latest lecture material.
+```
+
+* [Lecture slides](./Lecture_02_types_conditionals/Python_for_engineers_lecture_02_2020_03_03.pdf)
