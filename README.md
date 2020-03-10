@@ -28,3 +28,24 @@ git pull upstream master # Download the latest lecture material.
 ```
 
 * [Lecture slides](./Lecture_02_types_conditionals/Python_for_engineers_lecture_02_2020_03_03.pdf)
+
+## Lecture 3 - Python Introduction Part 2
+This lecture will cover:
+
+* Style guide
+* Functions (in more depth) 
+* Modules
+* Error handling
+* Local and global variables
+
+
+**Preparation**: Download the new lecture material by executing the following in the terminal:
+
+```bash
+cd ~/class-fs20 # Change to the git directory.
+git pull upstream master # Download the latest lecture material.
+```
+
+If git is not available on your system (working from home), download the material from [here](https://git.ee.ethz.ch/python-for-engineers/class-fs20/-/archive/master/class-fs20-master.zip) and unpack it on your computer.
+
+* This class uses no slides, but only jupyter-notebooks. Next, please open the file Lecture_3.ipynb.
