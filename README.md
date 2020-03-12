@@ -30,6 +30,9 @@ git pull upstream master # Download the latest lecture material.
 * [Lecture slides](./Lecture_02_types_conditionals/Python_for_engineers_lecture_02_2020_03_03.pdf)
 
 ## Lecture 3 - Python Introduction Part 2
+
+**NEW**: Those working from home can now ask questions on the issue tracker [here](https://git.ee.ethz.ch/python-for-engineers/class-fs20-forum/issues).
+
 This lecture will cover:
 
 * Style guide
