@@ -32,6 +32,9 @@ git pull upstream master # Download the latest lecture material.
 =======
 
 ## Lecture 3 - Python Introduction Part 2
+
+**NEW**: Those working from home can now ask questions on the issue tracker [here](https://git.ee.ethz.ch/python-for-engineers/class-fs20-forum/issues).
+
 This lecture will cover:
 
 * Style guide
