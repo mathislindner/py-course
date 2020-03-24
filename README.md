@@ -54,4 +54,18 @@ git pull upstream master # Download the latest lecture material.
 If git is not available on your system (working from home), download the material from [here](https://git.ee.ethz.ch/python-for-engineers/class-fs20/-/archive/master/class-fs20-master.zip) and unpack it on your computer.
 
 * This class uses no slides, but only jupyter-notebooks. Next, please open the file Lecture_3.ipynb.
+<<<<<<< HEAD
 >>>>>>> 3bf9d79b99f6e8aabe1e6f9931c5ade7e1d2ef06
+=======
+
+## Lecture 4 - Python Introduction Part 3
+
+## Lecture 5 - Object Oriented Programming (OOP)
+
+This lecture will cover the basics of object oriented programming in Python.
+
+* Classes and objects
+* Special methods: `__init__` and others.
+* Inheritance
+
+>>>>>>> c9443a79aa88ea253d0bb5bff692c5838e0f9078
