@@ -68,4 +68,30 @@ This lecture will cover the basics of object oriented programming in Python.
 * Special methods: `__init__` and others.
 * Inheritance
 
+<<<<<<< HEAD
 >>>>>>> c9443a79aa88ea253d0bb5bff692c5838e0f9078
+=======
+## Lecture 6 - TKInter
+
+* Graphical user interfaces with TKInter
+
+## Lecture 7 - Numpy
+
+* Working with n-dimensional arrays using Numpy
+* Fast, vectorized computations
+
+## Lecture 8 - Matplotlib & Scipy
+
+* Plotting with Matplotlib
+* Scipy for optimization, ODE solving and signal processing
+
+## Lecture 9 - Licences
+
+* Lecture on software licenses
+
+## Lecture 10 - `async/await` and networking
+
+* `async/await` syntax for asynchronous functions and cooperative multitasking
+* Networking with sockets
+* Networking with `asyncio`
+>>>>>>> a8d2cd374811cf5fb0f7f763415af0b35e96c4de
