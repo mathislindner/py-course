@@ -72,7 +72,8 @@ class Agilent_B2912A:
 # "Fill this part" section
 # ========================
 # --> TO DO.
-
+    def stop_output(self,channel):  #stops the soure output
+        self.send_string(":OUTP OFF".format(channel))
 
 
 # Below: advanced functionality for illustration
