@@ -89,9 +89,23 @@ This lecture will cover the basics of object oriented programming in Python.
 
 * Lecture on software licenses
 
-## Lecture 10 - `async/await` and networking
+## Lecture 10 - `async/await` and networking part 1
 
 * `async/await` syntax for asynchronous functions and cooperative multitasking
 * Networking with sockets
 * Networking with `asyncio`
+<<<<<<< HEAD
 >>>>>>> a8d2cd374811cf5fb0f7f763415af0b35e96c4de
+=======
+
+## Lecture 11 - Lab Automation
+
+* Accessing and controlling lab equippment with Python.
+* SCPI protocol
+
+## Lecture 12 - `async/await` and networking part 2
+
+* Data serialization & deserialization.
+* HTTP client and server with `aiohttp`.
+* Example: Simple voice-over-TCP/IP implementation.
+>>>>>>> c7517cb359a0985ea4b73d50255c280817459339
