@@ -1,4 +1,4 @@
-# Python for Engineers
+# Python
 
 * General information & lecture dates: [General_Information_Sheet_FS20.pdf](./General_Information_Sheet_FS20.pdf)
 * Materials: The class material comprises slides and python exercises. These are provided via a Git repository.
